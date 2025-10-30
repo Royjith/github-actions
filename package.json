@@ -1,0 +1,12 @@
+{
+  "name": "my-sample-app",
+  "version": "1.0.0",
+  "description": "Sample app for GitHub Actions self-hosted runner demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  },
+  "devDependencies": {}
+}
+
